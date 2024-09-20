@@ -4,6 +4,9 @@
 
 Blum AutoClicker Bot is a Python-based auto-clicker tool designed to interact with specific colored objects within a defined region of the screen. It detects objects of specific colors, such as pink, green, and bomb-like objects, and interacts with them by simulating mouse clicks. It features a PyQt5 overlay window to visualize the detection area and uses color detection with OpenCV to avoid interacting with bomb-like objects.
 
+## Demo:
+https://github.com/user-attachments/assets/3a4ad5c6-b1df-4105-8f91-396cf9dc3863
+
 ## Features
 
 1. **Color Detection**: Detects pink and green objects on the screen within a defined region.
