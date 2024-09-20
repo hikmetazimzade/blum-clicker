@@ -1,0 +1,4 @@
+start_x = 650
+end_x = 1150
+start_y = 100
+end_y = 900
